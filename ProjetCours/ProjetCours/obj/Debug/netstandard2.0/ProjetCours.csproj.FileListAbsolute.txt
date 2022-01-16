@@ -1,0 +1,16 @@
+/Users/elise/Desktop/IUT 2021 - 2022/Année 2021 - 2022/ProjetCours/ProjetCours/bin/Debug/netstandard2.0/ProjetCours.deps.json
+/Users/elise/Desktop/IUT 2021 - 2022/Année 2021 - 2022/ProjetCours/ProjetCours/bin/Debug/netstandard2.0/ProjetCours.dll
+/Users/elise/Desktop/IUT 2021 - 2022/Année 2021 - 2022/ProjetCours/ProjetCours/bin/Debug/netstandard2.0/ref/ProjetCours.dll
+/Users/elise/Desktop/IUT 2021 - 2022/Année 2021 - 2022/ProjetCours/ProjetCours/bin/Debug/netstandard2.0/ProjetCours.pdb
+/Users/elise/Desktop/IUT 2021 - 2022/Année 2021 - 2022/ProjetCours/ProjetCours/obj/Debug/netstandard2.0/ProjetCours.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elise/Desktop/IUT 2021 - 2022/Année 2021 - 2022/ProjetCours/ProjetCours/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/elise/Desktop/IUT 2021 - 2022/Année 2021 - 2022/ProjetCours/ProjetCours/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/elise/Desktop/IUT 2021 - 2022/Année 2021 - 2022/ProjetCours/ProjetCours/obj/Debug/netstandard2.0/ProjetCours.AssemblyInfoInputs.cache
+/Users/elise/Desktop/IUT 2021 - 2022/Année 2021 - 2022/ProjetCours/ProjetCours/obj/Debug/netstandard2.0/ProjetCours.AssemblyInfo.cs
+/Users/elise/Desktop/IUT 2021 - 2022/Année 2021 - 2022/ProjetCours/ProjetCours/obj/Debug/netstandard2.0/ProjetCours.csproj.CoreCompileInputs.cache
+/Users/elise/Desktop/IUT 2021 - 2022/Année 2021 - 2022/ProjetCours/ProjetCours/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/elise/Desktop/IUT 2021 - 2022/Année 2021 - 2022/ProjetCours/ProjetCours/obj/Debug/netstandard2.0/ProjetCours.dll
+/Users/elise/Desktop/IUT 2021 - 2022/Année 2021 - 2022/ProjetCours/ProjetCours/obj/Debug/netstandard2.0/ref/ProjetCours.dll
+/Users/elise/Desktop/IUT 2021 - 2022/Année 2021 - 2022/ProjetCours/ProjetCours/obj/Debug/netstandard2.0/ProjetCours.pdb
+/Users/elise/Desktop/IUT 2021 - 2022/Année 2021 - 2022/ProjetCours/ProjetCours/obj/Debug/netstandard2.0/ProjetCours.csproj.AssemblyReference.cache
+/Users/elise/Desktop/IUT 2021 - 2022/Année 2021 - 2022/ProjetCours/ProjetCours/obj/Debug/netstandard2.0/Views/CarsView.xaml.g.cs

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/htCc+3BSdHYhPAV1w5B+KxBb6+8K5ztfSc4mbinZy55swUkk+sFGQTb61/hKuE9yJfnUsIWNKZknQJKLdsa1w==",
+  "success": true,
+  "projectFilePath": "/Users/elise/Desktop/IUT 2021 - 2022/Année 2021 - 2022/ProjetCours/ProjetCours.iOS/ProjetCours.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/elise/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/elise/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/elise/.nuget/packages/xamarin.forms/5.0.0.2291/xamarin.forms.5.0.0.2291.nupkg.sha512"
+  ],
+  "logs": []
+}

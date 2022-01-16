@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentView
+    x:Class="ProjetCours.Views.CarsView"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:viewmodels="clr-namespace:ProjetCours.ViewModels">
+
+    <ContentView.Content>
+
+        <ListView
+            CachingStrategy="RecycleElement"
+            ItemsSource="{Binding Items}"
+            RowHeight="70">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Margin="8">
+                            <Label
+                                FontAttributes="Bold"
+                                FontSize="Subtitle"
+                                Text="{Binding Make}" />
+                            <Label
+                                FontAttributes="None"
+                                FontSize="Body"
+                                Text="{Binding YearOfModel}" />
+                            <Line Stroke="Gray" />
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+    </ContentView.Content>
+</ContentView>
