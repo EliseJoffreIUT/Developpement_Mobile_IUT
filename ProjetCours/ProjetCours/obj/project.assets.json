@@ -530,11 +530,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/elise/Desktop/IUT 2021 - 2022/Année 2021 - 2022/ProjetCours/ProjetCours/ProjetCours.csproj",
+      "projectUniqueName": "/Users/elise/Desktop/Developpement_Mobile_IUT/ProjetCours/ProjetCours/ProjetCours.csproj",
       "projectName": "ProjetCours",
-      "projectPath": "/Users/elise/Desktop/IUT 2021 - 2022/Année 2021 - 2022/ProjetCours/ProjetCours/ProjetCours.csproj",
+      "projectPath": "/Users/elise/Desktop/Developpement_Mobile_IUT/ProjetCours/ProjetCours/ProjetCours.csproj",
       "packagesPath": "/Users/elise/.nuget/packages/",
-      "outputPath": "/Users/elise/Desktop/IUT 2021 - 2022/Année 2021 - 2022/ProjetCours/ProjetCours/obj/",
+      "outputPath": "/Users/elise/Desktop/Developpement_Mobile_IUT/ProjetCours/ProjetCours/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/elise/.config/NuGet/NuGet.Config"

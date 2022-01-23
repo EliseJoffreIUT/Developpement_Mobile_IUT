@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XkmfdochDJZ8BQ31HchUsEv/xWcn/TyEOab9dj4uywDYFGtO/XgIooxv5FbvVywoSTDLOc1AtEz1gwINCrfhSA==",
+  "dgSpecHash": "EgOyQ5IcC3y6QHfmpXXsXEcGmqaucJK3tHl4V91fmlo/6R9N5jIkagG8HqPSFpmClRkm1dsE4qRmV5Vgi/Qv+w==",
   "success": true,
-  "projectFilePath": "/Users/elise/Desktop/IUT 2021 - 2022/Année 2021 - 2022/ProjetCours/ProjetCours/ProjetCours.csproj",
+  "projectFilePath": "/Users/elise/Desktop/Developpement_Mobile_IUT/ProjetCours/ProjetCours/ProjetCours.csproj",
   "expectedPackageFiles": [
     "/Users/elise/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/elise/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",

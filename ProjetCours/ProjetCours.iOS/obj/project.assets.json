@@ -987,11 +987,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/elise/Desktop/IUT 2021 - 2022/Année 2021 - 2022/ProjetCours/ProjetCours.iOS/ProjetCours.iOS.csproj",
+      "projectUniqueName": "/Users/elise/Desktop/Developpement_Mobile_IUT/ProjetCours/ProjetCours.iOS/ProjetCours.iOS.csproj",
       "projectName": "ProjetCours.iOS",
-      "projectPath": "/Users/elise/Desktop/IUT 2021 - 2022/Année 2021 - 2022/ProjetCours/ProjetCours.iOS/ProjetCours.iOS.csproj",
+      "projectPath": "/Users/elise/Desktop/Developpement_Mobile_IUT/ProjetCours/ProjetCours.iOS/ProjetCours.iOS.csproj",
       "packagesPath": "/Users/elise/.nuget/packages/",
-      "outputPath": "/Users/elise/Desktop/IUT 2021 - 2022/Année 2021 - 2022/ProjetCours/ProjetCours.iOS/obj/",
+      "outputPath": "/Users/elise/Desktop/Developpement_Mobile_IUT/ProjetCours/ProjetCours.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1006,8 +1006,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/elise/Desktop/IUT 2021 - 2022/Année 2021 - 2022/ProjetCours/ProjetCours/ProjetCours.csproj": {
-              "projectPath": "/Users/elise/Desktop/IUT 2021 - 2022/Année 2021 - 2022/ProjetCours/ProjetCours/ProjetCours.csproj"
+            "/Users/elise/Desktop/Developpement_Mobile_IUT/ProjetCours/ProjetCours/ProjetCours.csproj": {
+              "projectPath": "/Users/elise/Desktop/Developpement_Mobile_IUT/ProjetCours/ProjetCours/ProjetCours.csproj"
             }
           }
         }

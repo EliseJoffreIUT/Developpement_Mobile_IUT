@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/elise/Desktop/IUT 2021 - 2022/Année 2021 - 2022/ProjetCours/ProjetCours.Android/ProjetCours.Android.csproj": {}
+    "/Users/elise/Desktop/Developpement_Mobile_IUT/ProjetCours/ProjetCours.Android/ProjetCours.Android.csproj": {}
   },
   "projects": {
-    "/Users/elise/Desktop/IUT 2021 - 2022/Année 2021 - 2022/ProjetCours/ProjetCours.Android/ProjetCours.Android.csproj": {
+    "/Users/elise/Desktop/Developpement_Mobile_IUT/ProjetCours/ProjetCours.Android/ProjetCours.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/elise/Desktop/IUT 2021 - 2022/Année 2021 - 2022/ProjetCours/ProjetCours.Android/ProjetCours.Android.csproj",
+        "projectUniqueName": "/Users/elise/Desktop/Developpement_Mobile_IUT/ProjetCours/ProjetCours.Android/ProjetCours.Android.csproj",
         "projectName": "ProjetCours.Android",
-        "projectPath": "/Users/elise/Desktop/IUT 2021 - 2022/Année 2021 - 2022/ProjetCours/ProjetCours.Android/ProjetCours.Android.csproj",
+        "projectPath": "/Users/elise/Desktop/Developpement_Mobile_IUT/ProjetCours/ProjetCours.Android/ProjetCours.Android.csproj",
         "packagesPath": "/Users/elise/.nuget/packages/",
-        "outputPath": "/Users/elise/Desktop/IUT 2021 - 2022/Année 2021 - 2022/ProjetCours/ProjetCours.Android/obj/",
+        "outputPath": "/Users/elise/Desktop/Developpement_Mobile_IUT/ProjetCours/ProjetCours.Android/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
@@ -26,8 +26,8 @@
         "frameworks": {
           "monoandroid11.0": {
             "projectReferences": {
-              "/Users/elise/Desktop/IUT 2021 - 2022/Année 2021 - 2022/ProjetCours/ProjetCours/ProjetCours.csproj": {
-                "projectPath": "/Users/elise/Desktop/IUT 2021 - 2022/Année 2021 - 2022/ProjetCours/ProjetCours/ProjetCours.csproj"
+              "/Users/elise/Desktop/Developpement_Mobile_IUT/ProjetCours/ProjetCours/ProjetCours.csproj": {
+                "projectPath": "/Users/elise/Desktop/Developpement_Mobile_IUT/ProjetCours/ProjetCours/ProjetCours.csproj"
               }
             }
           }
@@ -48,14 +48,14 @@
         }
       }
     },
-    "/Users/elise/Desktop/IUT 2021 - 2022/Année 2021 - 2022/ProjetCours/ProjetCours/ProjetCours.csproj": {
+    "/Users/elise/Desktop/Developpement_Mobile_IUT/ProjetCours/ProjetCours/ProjetCours.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/elise/Desktop/IUT 2021 - 2022/Année 2021 - 2022/ProjetCours/ProjetCours/ProjetCours.csproj",
+        "projectUniqueName": "/Users/elise/Desktop/Developpement_Mobile_IUT/ProjetCours/ProjetCours/ProjetCours.csproj",
         "projectName": "ProjetCours",
-        "projectPath": "/Users/elise/Desktop/IUT 2021 - 2022/Année 2021 - 2022/ProjetCours/ProjetCours/ProjetCours.csproj",
+        "projectPath": "/Users/elise/Desktop/Developpement_Mobile_IUT/ProjetCours/ProjetCours/ProjetCours.csproj",
         "packagesPath": "/Users/elise/.nuget/packages/",
-        "outputPath": "/Users/elise/Desktop/IUT 2021 - 2022/Année 2021 - 2022/ProjetCours/ProjetCours/obj/",
+        "outputPath": "/Users/elise/Desktop/Developpement_Mobile_IUT/ProjetCours/ProjetCours/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/elise/.config/NuGet/NuGet.Config"
